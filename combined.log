@@ -1,0 +1,182 @@
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:40 +05:00: MongoError: bad auth : Authentication failed.
+    at MessageStream.messageHandler (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\connection.js:299:20)
+    at MessageStream.emit (node:events:390:28)
+    at processIncomingData (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:144:12)
+    at MessageStream._write (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\cmap\message_stream.js:42:5)
+    at writeOrBuffer (node:internal/streams/writable:389:12)
+    at _write (node:internal/streams/writable:330:10)
+    at MessageStream.Writable.write (node:internal/streams/writable:334:10)
+    at TLSSocket.ondata (node:internal/streams/readable:754:22)
+    at TLSSocket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12) {
+  ok: 0,
+  code: 8000,
+  codeName: 'AtlasError'
+}
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+2022-01-18 02:41 +05:00: MongoParseError: URI does not have hostname, domain name and tld
+    at parseSrvConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:51:21)
+    at parseConnectionString (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\core\uri_parser.js:611:12)
+    at connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\operations\connect.js:283:3)
+    at C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:284:5
+    at maybePromise (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\utils.js:692:3)
+    at MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:280:10)
+    at Function.MongoClient.connect (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\node_modules\mongodb\lib\mongo_client.js:426:22)
+    at Object.<anonymous> (C:\Users\BUKC\Documents\VScodeProjects\WebEng\student-crud-app151\server.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
